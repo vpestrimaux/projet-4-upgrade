@@ -832,6 +832,9 @@ h4 {
     padding-top: 30px;
     color: #000000;
 }
+.black{
+    color: black;
+}
 
 @media (max-width: 1024px) {
     .bloc {
